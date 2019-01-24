@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".InvoicePreview">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="3"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_weight="1"
+        android:layout_height="80dp"
+         android:layout_margin="15dp"
+        android:id="@+id/company_logo"
+        android:src="@drawable/ktlogo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hhhhhhhhhhhh"
+        android:layout_weight="1"
+         android:visibility="invisible"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INVOICE \n Date: 12.12.18"
+        android:layout_weight="1"
+        android:layout_margin="10dp"
+        android:id="@+id/date_invoice"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        />
+
+
+</LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Bill to: "/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textSize="14sp"
+        android:id="@+id/bill_to"
+        android:text="Sk Abdul , Kolkata,700102"/>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:background="#000"
+    android:layout_marginTop="5dp"
+    android:layout_height="40dp"
+    android:layout_margin="5dp"
+    android:weightSum="6"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="start|center"
+        android:layout_weight="3"
+        android:text="Item "
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorWhite"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        />
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:text="Quantity"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorWhite"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        />
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:text="Rate"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorWhite"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:text="Amount"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorWhite"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/item_list">
+        </android.support.v7.widget.RecyclerView>
+
+
+    </LinearLayout>
+
+
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="end"
+    android:layout_margin="10dp"
+    android:id="@+id/total_amount"
+    android:textStyle="bold"
+    android:text="Total:                     ₹1350"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Generate Invoice"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/generate_invoice"
+        android:textColor="@color/colorWhite"
+        android:textAllCaps="false"
+        android:drawableEnd="@drawable/ic_chevron_right_black_24dp"
+        android:background="@drawable/buttonstyle"
+        android:drawableRight="@drawable/ic_chevron_right_black_24dp" />
+
+
+</LinearLayout>
+</LinearLayout>

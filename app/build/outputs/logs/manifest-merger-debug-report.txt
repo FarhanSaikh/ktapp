@@ -1,0 +1,477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/175cc1b3457d790f49c579308e47681d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:17:1-28:12
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/d1165c33b37cd41b572325fb192c5daa/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/d9f0db55e9e6a2543d6f969ac1ea881c/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/861ce8c8f8edc2698ed3afc0984e3285/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/73f2d053806ab03092c6a8c26f51437e/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/c12646fc3c1ed8832b15de734e102b3a/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/e920c6386823b8aeb5c5c0d7065aea23/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/b3c19430206d13ac675b0f084c1f3907/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/bbecd3a2bc48b759436f26643feba567/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha8.aar/6a09bf827242db97a4cecd9e3a903019/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:17:1-30:12
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:10:5-56:19
+MERGED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/175cc1b3457d790f49c579308e47681d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/175cc1b3457d790f49c579308e47681d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:22:5-26:19
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/d1165c33b37cd41b572325fb192c5daa/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/d1165c33b37cd41b572325fb192c5daa/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/e920c6386823b8aeb5c5c0d7065aea23/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/e920c6386823b8aeb5c5c0d7065aea23/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/bbecd3a2bc48b759436f26643feba567/AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/bbecd3a2bc48b759436f26643feba567/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:26:5-32:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:16:9-40
+activity#in.kolkatatailor.kolkatatailor.SplashScreen
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:21:27-74
+service#in.kolkatatailor.kolkatatailor.MyFirebaseMessagingService
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:25:9-29:19
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:25:18-60
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:26:13-28:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:27:25-75
+service#in.kolkatatailor.kolkatatailor.MyFirebaseInstanceIdService
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:30:9-34:19
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:30:18-61
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:31:13-33:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:32:25-77
+activity#in.kolkatatailor.kolkatatailor.MainActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:36:19-47
+activity#in.kolkatatailor.kolkatatailor.AboutUs
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:37:9-45
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:37:19-42
+activity#in.kolkatatailor.kolkatatailor.OrdersActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:38:9-52
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:38:19-49
+activity#in.kolkatatailor.kolkatatailor.TailorRegistration
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:39:9-56
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:39:19-53
+activity#in.kolkatatailor.kolkatatailor.FrontScreenActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:40:9-57
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:40:19-54
+activity#in.kolkatatailor.kolkatatailor.VerifyPhoneActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:41:9-57
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:41:19-54
+activity#in.kolkatatailor.kolkatatailor.SignupActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:42:9-52
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:42:19-49
+activity#in.kolkatatailor.kolkatatailor.TailorList
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:43:9-48
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:43:19-45
+activity#in.kolkatatailor.kolkatatailor.ChatActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:excludeFromRecents
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:45:13-46
+	android:taskAffinity
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:44:19-47
+intent-filter#action:name:in.kolkatatailor.kolkatatailor_TARGET_NOTIFICATION+category:name:android.intent.category.DEFAULT
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:47:13-51:29
+action#in.kolkatatailor.kolkatatailor_TARGET_NOTIFICATION
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:48:17-93
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:48:25-90
+category#android.intent.category.DEFAULT
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:50:27-73
+activity#in.kolkatatailor.kolkatatailor.SingleImageActivity
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:53:9-57
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:53:19-54
+activity#in.kolkatatailor.kolkatatailor.GenerateInvoice
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:54:9-53
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:54:19-50
+activity#in.kolkatatailor.kolkatatailor.InvoicePreview
+ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:55:9-61
+	android:name
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml:55:19-49
+uses-sdk
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/175cc1b3457d790f49c579308e47681d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/175cc1b3457d790f49c579308e47681d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/d1165c33b37cd41b572325fb192c5daa/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/d1165c33b37cd41b572325fb192c5daa/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/d9f0db55e9e6a2543d6f969ac1ea881c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/d9f0db55e9e6a2543d6f969ac1ea881c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/861ce8c8f8edc2698ed3afc0984e3285/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/861ce8c8f8edc2698ed3afc0984e3285/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/73f2d053806ab03092c6a8c26f51437e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/73f2d053806ab03092c6a8c26f51437e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/c12646fc3c1ed8832b15de734e102b3a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/c12646fc3c1ed8832b15de734e102b3a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/e920c6386823b8aeb5c5c0d7065aea23/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/e920c6386823b8aeb5c5c0d7065aea23/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/b3c19430206d13ac675b0f084c1f3907/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/b3c19430206d13ac675b0f084c1f3907/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:21:5-23:54
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/bbecd3a2bc48b759436f26643feba567/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/bbecd3a2bc48b759436f26643feba567/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.core:runtime:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha8.aar/6a09bf827242db97a4cecd9e3a903019/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha8.aar/6a09bf827242db97a4cecd9e3a903019/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/D/BAckupfromoldmac/Users/farhansaikh/Documents/AllimpProjects/KolkataTailor/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4cbb3f3ca466c6bcdaadc18f9a5ba03f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/61513c417f1c6602e83da6efa9bc2340/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fe0d7435696ba254b22871b910088966/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/b36e41fae33bfdaf525b0cc26a8b5a6f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b769f7c05a6178a1dbbdd358cdacd68/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ad49dbcf990138e79d1d983c566edc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/80e6f50b20ef72cb142f7d9d8eb57751/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/592306b5ef355c01d989b40ff36df979/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b3272499be98019a3fad8d8411d1f027/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55ef433aeba8ecad786753fb5a8aa8df/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9f6371aaf354a016fc325e6df3ff3304/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/10fc60b408651449f0df49fd86ee5e2c/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea74618d93e350a6b83887298a7f1ff8/AndroidManifest.xml:27:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/9c5ea68202427c12753f6b7fe9031104/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:2.3.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-2.3.0.aar/3bc3d5bb14a58cfe95ee94cb86e25ab0/AndroidManifest.xml:15:13-58
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/e23788cfa4c1ed6b3db3c987cd8c3792/AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/3b17c7e4810cc9333379116e62223c6a/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ee4464e3445630c23527d553878bb8e4/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:21:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:24:17-71
+permission#in.kolkatatailor.kolkatatailor.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:26:22-76
+uses-permission#in.kolkatatailor.kolkatatailor.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:in.kolkatatailor.kolkatatailor
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:33:27-58
+category#in.kolkatatailor.kolkatatailor
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9eb4abca105f9d12f9ade49e9d9c6811/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/118871688c29d2ea5a52eb7b48db5495/AndroidManifest.xml:6:79-143
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha8.aar/473f792d201e1a065ab0602af8f2cf2c/AndroidManifest.xml:28:13-81
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/farhansmac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6f44b21338deae8e6c59c088c649f9a9/AndroidManifest.xml:26:13-58

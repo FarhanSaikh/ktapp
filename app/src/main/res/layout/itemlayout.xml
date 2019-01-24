@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itemlayout"
+    tools:context=".InvoicePreview">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:weightSum="6"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:layout_weight="3"
+            android:text="Salwar Suit"
+            android:id="@+id/service_name1"
+
+            android:textColor="@color/colorBlack"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            />
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="3"
+            android:id="@+id/service_quantity1"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            />
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="₹450"
+            android:id="@+id/service_price1"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="end"
+            android:layout_weight="1"
+            android:text="₹1350"
+            android:id="@+id/service_total_price1"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

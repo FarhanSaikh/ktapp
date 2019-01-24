@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775903085674",
+    "firebase_url": "https://kolkatatailor-9c1ee.firebaseio.com",
+    "project_id": "kolkatatailor-9c1ee",
+    "storage_bucket": "kolkatatailor-9c1ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775903085674:android:33ae6d627b6bcfec",
+        "android_client_info": {
+          "package_name": "in.kolkatatailor.kolkatatailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775903085674-orj16m3a8fok4sq3m3uj6tr0g3492nal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.kolkatatailor.kolkatatailor",
+            "certificate_hash": "219f69fea100421af2e95cf6dcff6f15ba087bed"
+          }
+        },
+        {
+          "client_id": "775903085674-1090qflm4si1nh0112ju9u22qdamtg47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQVowyxi56yXWqfraqHbqkQ6a0MxLsRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775903085674-1090qflm4si1nh0112ju9u22qdamtg47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
